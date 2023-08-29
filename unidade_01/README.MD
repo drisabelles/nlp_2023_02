@@ -19,13 +19,13 @@ Saída ao processo de lematização: “Assim que amanhecer , eu estudante , apr
 Saída ao processo de stemização: “Assim que amanhec, os estud, apress, acord e saír corr par faz a prov”.
 
 <strong>TC.1.7</strong> - R: Os exemplos de usos que temos pode ser para a tradução de frases e análises de sentimentos. 
-Exemplo 1: I/PRP love/VBP apples/NNS — Eu/PRS amo/V maçãs/CN
-Exemplo 2: Gostei/V muito/ADV ,/PNT mas/CJ  ficou/V grande/ADJ.
+</br>Exemplo 1: I/PRP love/VBP apples/NNS — Eu/PRS amo/V maçãs/CN
+</br>Exemplo 2: Gostei/V muito/ADV ,/PNT mas/CJ  ficou/V grande/ADJ.
 
 <h3>Prática de Programação</h3>
 
-<strong>PP1.1</strong> - Para acessar a resposta, (clique aqui)[https://github.com/drisabelles/nlp_2023_02/blob/main/unidade_01/python/introduction/intro_pt.py]
-<strong>PP1.2</strong> - Para acessar a resposta, (clique aqui)[https://github.com/drisabelles/nlp_2023_02/blob/main/unidade_01/python/introduction/lemma_stemm_pt.ipynb]
-<strong>PP1.3</strong> - Para acessar a resposta, (clique aqui)[https://github.com/drisabelles/nlp_2023_02/blob/main/unidade_01/python/introduction/intro_en.py]
-<strong>PP1.4</strong> - Para acessar a resposta, (clique aqui)[https://github.com/drisabelles/nlp_2023_02/blob/main/unidade_01/python/introduction/lemma_stemm_en.ipynb]
+<strong>PP1.1</strong> - Para acessar a resposta, <a href='https://github.com/drisabelles/nlp_2023_02/blob/main/unidade_01/python/introduction/intro_pt.py'>clique aqui</a>
+<strong>PP1.2</strong> - Para acessar a resposta, <a href='https://github.com/drisabelles/nlp_2023_02/blob/main/unidade_01/python/introduction/lemma_stemm_pt.ipynb'>clique aqui</a>
+<strong>PP1.3</strong> - Para acessar a resposta, <a href='https://github.com/drisabelles/nlp_2023_02/blob/main/unidade_01/python/introduction/intro_en.py'>clique aqui</a>
+<strong>PP1.4</strong> - Para acessar a resposta, <a href='https://github.com/drisabelles/nlp_2023_02/blob/main/unidade_01/python/introduction/lemma_stemm_en.ipynb'>clique aqui</a>
 
