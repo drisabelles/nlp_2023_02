@@ -38,8 +38,8 @@ Saída ao processo de stemização: “Assim que amanhec, os estud, apress, acor
 
 <h3>Prática de Programação</h3>
 
-<strong>PP1.1</strong> - Para acessar a resposta, <a href='https://github.com/drisabelles/nlp_2023_02/blob/main/unidade_01/python/introduction/intro_pt.py'>clique aqui</a>
-</br><strong>PP1.2</strong> - Para acessar a resposta, <a href='https://github.com/drisabelles/nlp_2023_02/blob/main/unidade_01/python/introduction/lemma_stemm_pt.ipynb'>clique aqui</a>
-</br><strong>PP1.3</strong> - Para acessar a resposta, <a href='https://github.com/drisabelles/nlp_2023_02/blob/main/unidade_01/python/introduction/intro_en.py'>clique aqui</a>
-</br><strong>PP1.4</strong> - Para acessar a resposta, <a href='https://github.com/drisabelles/nlp_2023_02/blob/main/unidade_01/python/introduction/lemma_stemm_en.ipynb'>clique aqui</a>
+<strong>PP.1.1</strong> - Para acessar a resposta, <a href='https://github.com/drisabelles/nlp_2023_02/blob/main/unidade_01/python/introduction/intro_pt.py'>clique aqui</a>
+</br><strong>PP.1.2</strong> - Para acessar a resposta, <a href='https://github.com/drisabelles/nlp_2023_02/blob/main/unidade_01/python/introduction/lemma_stemm_pt.ipynb'>clique aqui</a>
+</br><strong>PP.1.3</strong> - Para acessar a resposta, <a href='https://github.com/drisabelles/nlp_2023_02/blob/main/unidade_01/python/introduction/intro_en.py'>clique aqui</a>
+</br><strong>PP.1.4</strong> - Para acessar a resposta, <a href='https://github.com/drisabelles/nlp_2023_02/blob/main/unidade_01/python/introduction/lemma_stemm_en.ipynb'>clique aqui</a>
 
