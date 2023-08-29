@@ -1,11 +1,4 @@
-<style>
-.cl{
-    background-color: black;
-    color: yellow;
-    font-family: "Courier New";
-}    
-</style>
-Perform the following steps before you try to run each example:
+<h3>Perform the following steps before you try to run each example:</h3>
 
 <ol>
 <li>Create a virtual environment and load it.</li>
