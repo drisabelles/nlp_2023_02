@@ -1,4 +1,4 @@
-<h1> Exercícios de Processamento de Linguagem Natural </h1>
+<h1> 1ª Lista de Exercícios - Processamento de Linguagem Natural </h1>
 
 <h3>Terminologias e Conceitos</h3>
 
